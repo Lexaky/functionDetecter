@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676992371 source:c:\users\lesha\onedrive\Рабочий стол\to work\ДВФУ\Занятия\Структуры и алгоритмы компьютерной обработки данных\4lw\findarea\main.cpp
+	<iostream>
+	<math.h>
+
